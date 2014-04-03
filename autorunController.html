@@ -1,0 +1,18 @@
+<head>
+  <title>autorunController</title>
+</head>
+
+<body>
+  {{> hello}}
+</body>
+
+<template name="hello">
+    <ul>
+        {{#each recs}}
+            {{> rec}}
+        {{/each}}
+    </ul>
+</template>
+<template name="rec">
+    <li>{{name}}</li>
+</template>

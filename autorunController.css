@@ -1,0 +1,11 @@
+li {
+    color: red;
+}
+
+li.loaded {
+    color: blue;
+}
+
+li.changed {
+    color: green;
+}
