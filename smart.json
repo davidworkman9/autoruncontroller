@@ -1,0 +1,8 @@
+{
+	"name": "autorun-controller",
+	"description": "Package for simplifying multiple autoruns with Meteor",
+	"homepage": "https://github.com/davidworkman9/autoruncontroller",
+    "author": "Dave Workman <davidworkman9@gmail.com>",
+    "version": "0.1.0",
+    "git": "https://github.com/davidworkman9/autoruncontroller.git"
+}
